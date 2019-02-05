@@ -1,3 +1,3 @@
 #/usr/bin/sh
 
-python main.py
+python $(dirname $0)/main.py
